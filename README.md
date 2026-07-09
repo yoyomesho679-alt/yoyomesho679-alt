@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Youssef Michel
 
-<!--
-**yoyomesho679-alt/yoyomesho679-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer from Egypt 🇪🇬
 
-Here are some ideas to get you started:
+💻 I build responsive and modern websites using HTML, CSS, JavaScript and Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Bootstrap 5
+- Responsive Design
+- Git & GitHub
+- Basic Python
+
+---
+
+## 📂 Featured Projects
+
+- 🏦 VORTEX BANK
+- 💊 PharmaTech
+- 🎓 Student Login
+- 📚 Student Attendance System
+- 👕 Fashion Store
+- 🛍️ SHIAKA POS System
+- 🎨 Modern Landing Page
+- 🌐 My First Website
+
+---
+
+## 📫 Contact Me
+
+- GitHub: https://github.com/yoyomesho679-alt
+
+---
+
+⭐ Thanks for visiting my profile!
