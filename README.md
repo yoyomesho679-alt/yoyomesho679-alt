@@ -3,7 +3,11 @@
 <h3 align="center">Front-End Web Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-I love building modern, responsive and user-friendly websites.
+  Passionate about building responsive, modern and user-friendly web applications.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Bootstrap+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -11,15 +15,16 @@ I love building modern, responsive and user-friendly websites.
 ## 🚀 About Me
 
 - 💻 Front-End Web Developer
-- 🌱 Currently learning JavaScript and modern Front-End technologies
+- 🌱 Currently learning JavaScript & modern Front-End technologies
 - 🎯 Goal: Become a Professional Freelancer
-- ⚡ Passionate about creating responsive websites
+- ⚡ Love building modern responsive websites
+- 📍 Egypt
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
 
@@ -29,8 +34,8 @@ I love building modern, responsive and user-friendly websites.
 
 ## 📂 Featured Projects
 
-| Project | Live Demo | Source Code |
-|---------|-----------|-------------|
+| Project | Live Demo | GitHub |
+|---------|-----------|---------|
 | 🏦 VORTEX BANK | https://yoyomesho679-alt.github.io/VORTEX-BANK/ | https://github.com/yoyomesho679-alt/VORTEX-BANK |
 | 💊 PharmaTech | https://yoyomesho679-alt.github.io/PharmaTech/ | https://github.com/yoyomesho679-alt/PharmaTech |
 | 📚 Student Attendance | https://yoyomesho679-alt.github.io/Student-Attendance-and-Absence-Record/ | https://github.com/yoyomesho679-alt/Student-Attendance-and-Absence-Record |
@@ -41,30 +46,46 @@ I love building modern, responsive and user-friendly websites.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyomesho679-alt&show_icons=true&theme=tokyonight)
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yoyomesho679-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 💻 Most Used Languages
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyomesho679-alt&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyomesho679-alt&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-📧 **Email**
-
-yoyomesho679@gmail.com
-
-🐙 **GitHub**
-
-https://github.com/yoyomesho679-alt
+</p>
 
 ---
 
-<h3 align="center">
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yoyomesho679-alt&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="mailto:yoyomesho679@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/yoyomesho679-alt">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
 ⭐ Thanks for visiting my profile ⭐
-</h3>
+
+</p>
